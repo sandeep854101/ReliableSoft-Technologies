@@ -68,6 +68,14 @@ function generateTestCases(requirements) {
     }
    
 
+    // Add more features and constraints as needed
+    // e.g., Password, Date, etc.
+    // Each feature can have its own set of test cases based on the constraints
+    // you can use here openai api to generate test cases for other features
+    // or you can use the LLM to generate test cases for other features
+    // based on the constraints
+
+
     return testCases;
 }
 
